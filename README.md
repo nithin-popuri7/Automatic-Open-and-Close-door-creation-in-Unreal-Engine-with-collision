@@ -7,11 +7,11 @@ To implement Automatic-Open-and-Close-door-creation-in-Unreal-Engine-with-collis
 
 
 ## Procedure:
-## Step 1: Begin by creating a New > Games > Blank > Blueprint project with Starter Content enabled named TimelineDoorActor.
+#### Step 1: Begin by creating a New > Games > Blank > Blueprint project with Starter Content enabled named TimelineDoorActor.
 
-## Step 2: Click the Add/Import button to create a new Blueprint Actor class named BP_DoorActor.
+#### Step 2: Click the Add/Import button to create a new Blueprint Actor class named BP_DoorActor.
 
-## Step 3: Double-click the BP_Door Actor from the Content Browser to open it in the Blueprint Editor and open the Class Defaults.
+#### Step 3: Double-click the BP_Door Actor from the Content Browser to open it in the Blueprint Editor and open the Class Defaults.
 
 ## Step 4: Next, from the Components tab click the Add Component button and select Static Mesh to add a new Static Mesh Component.
 
