@@ -34,11 +34,10 @@ Step 12: Shift select both your keys, right-click, and from the Key Interpolatio
 Step 13: Save your float track.
 
 ## Output:
-![github.logo](EX5.png)
-![github.logo](EX5.1.png)
-![github.logo](EX5.2.png)
-![github.logo](EX5.3.png)
-![github.logo](EX5.4.png)
+![github.logo](gp.png)
+![github.logo](gp1.png)
+![github.logo](gp2.png)
+
 
 
 ## Result:
